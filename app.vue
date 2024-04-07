@@ -17,5 +17,6 @@ export default {
   <body class="bg-dark">
     <index />
 
+
   </body>
 </template>

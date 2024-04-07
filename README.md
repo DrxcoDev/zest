@@ -1,12 +1,20 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f60646c-5035-411d-bfa3-18cbbacd9855/deploy-status)](https://app.netlify.com/sites/zestdev/deploys)
+<<<<<<< HEAD
 
 # Welcome to zest
+=======
+>>>>>>> 491e8fdf48557a7499affc565fc94f8aeb5b9cca
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Zest
+
+**Zest** esta aqui para ayudarte el crear las estadisticas de datos, facil, rapido y sencillo.
 
 ## Setup
 
-Make sure to install the dependencies:
+Para utilizarlo de forma local al igual que para contribuir deberias de hacer
+
+- [ ] Crea una bifurcacion
+- [ ] Instala las dependencias:
 
 ```bash
 # npm
@@ -22,9 +30,7 @@ yarn install
 bun install
 ```
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
+- [x] Carrea el servidor: `http://localhost:3000`:
 
 ```bash
 # npm
@@ -40,9 +46,9 @@ yarn dev
 bun run dev
 ```
 
-## Production
+## Produccion
 
-Build the application for production:
+- [x] Pudes hacer un build si quieres:
 
 ```bash
 # npm
@@ -58,7 +64,7 @@ yarn build
 bun run build
 ```
 
-Locally preview production build:
+Previsualiza la produccion:
 
 ```bash
 # npm
@@ -74,4 +80,16 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+# Bugs & Errors
+
+Puede estar la casualidad de que te encuentres un error o un bug en la aplicacion, nos ayudarias mucho que hagas una captura al error y que lo presentes en un Issue, le atenderemos lo mas rapido posible.
+
+# Contribuye
+
+Esto es codigo abierto lo cual todo el mundo esta bienvenido a contribuir
+
+# Parche de actualizaciones
+
+## Alpha Pre BETA
+`07/04/2024`
+ - En esta actualizacion es la primera en la que puede estar en una aplicacion constituida. Solo presentamos la pantalla de inicio y no hay ninguna funcion
