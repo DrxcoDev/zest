@@ -1,9 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f60646c-5035-411d-bfa3-18cbbacd9855/deploy-status)](https://app.netlify.com/sites/zestdev/deploys)
-<<<<<<< HEAD
 
-# Welcome to zest
-=======
->>>>>>> 491e8fdf48557a7499affc565fc94f8aeb5b9cca
 
 # Zest
 
