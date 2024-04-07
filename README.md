@@ -1,4 +1,6 @@
-# Nuxt 3 Minimal Starter
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f60646c-5035-411d-bfa3-18cbbacd9855/deploy-status)](https://app.netlify.com/sites/zestdev/deploys)
+
+# Welcome to zest
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
