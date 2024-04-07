@@ -1,7 +1,7 @@
 
 <template>
 
-    <div id="div1"style="padding: 60px;width: 1000px;height: 600px;background: black;margin-bottom: 40px;" class="div visible position-absolute top-50 start-50 translate-middle rounded shadow-lg text-light">
+    <div id="div1"style="padding: 60px;width: 1000px;height: 600px;background: black;margin-bottom: 39px;" class="div visible position-absolute top-50 start-50 translate-middle rounded shadow-lg text-light">
         <div class="d-flex position-absolute top-50 start-50 translate-middle">
             <h1 class="">Welcome to</h1><h1 class="text-warning ml-2" style="margin-left: 20px;">Zest</h1>
         </div>
